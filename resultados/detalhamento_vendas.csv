@@ -1,0 +1,11 @@
+﻿id_venda,data_venda,cliente,produto,categoria,quantidade,preco_unitario,valor_venda
+1,2026-01-05,Ana Silva,Notebook,Informática,2,3500.0,7000.0
+2,2026-01-08,Carlos Souza,Mouse,Acessórios,3,80.0,240.0
+3,2026-01-12,Mariana Costa,Monitor,Informática,1,1200.0,1200.0
+4,2026-02-03,Pedro Santos,Smartphone,Telefonia,1,2200.0,2200.0
+5,2026-02-10,Juliana Oliveira,Teclado,Acessórios,2,150.0,300.0
+6,2026-02-15,Ana Silva,Headset,Acessórios,1,250.0,250.0
+7,2026-03-02,Carlos Souza,Carregador,Telefonia,4,100.0,400.0
+8,2026-03-08,Mariana Costa,Webcam,Acessórios,2,300.0,600.0
+9,2026-03-15,Pedro Santos,Notebook,Informática,1,3500.0,3500.0
+10,2026-03-20,Juliana Oliveira,Mouse,Acessórios,5,80.0,400.0
